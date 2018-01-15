@@ -4,15 +4,6 @@
 [submodule "module_11"]
 	path = module_11
 	url = git@github.com:lyon106/module_11.git
-[submodule "module_8/8.6"]
-	path = module_8/8.6
-	url = git@github.com:lyon106/8.6.git
-[submodule "module_8/8.5"]
-	path = module_8/8.5
-	url = git@github.com:lyon106/8.5.git
-[submodule "module_8/8.4"]
-	path = module_8/8.4
-	url = git@github.com:lyon106/8.4.git
-[submodule "module_8/8.3"]
-	path = module_8/8.3
-	url = git@github.com:lyon106/8.3.git
+[submodule "module_8"]
+	path = module_8
+	url = git@github.com:lyon106/module_8.git
