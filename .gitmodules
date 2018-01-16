@@ -28,3 +28,6 @@
 [submodule "module_10"]
 	path = module_10
 	url = git@github.com:lyon106/module_10.git
+[submodule "module_1"]
+	path = module_1
+	url = git@github.com:lyon106/module_1.git
