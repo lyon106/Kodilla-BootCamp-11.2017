@@ -37,3 +37,12 @@
 [submodule "module_14"]
 	path = module_14
 	url = https://github.com/lyon106/module_14.git
+[submodule "module_15"]
+	path = module_15
+	url = https://github.com/lyon106/module_15.git
+[submodule "module_16"]
+	path = module_16
+	url = git@github.com:lyon106/module_16.git
+[submodule "module_17"]
+	path = module_17
+	url = git@github.com:lyon106/module_17.git

@@ -1,1 +1,53 @@
-img { max-width: 100px; }
+body {
+  background: #E9F1F7;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button,
+input {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  padding-top: 8px;
+  max-width: 100px;
+}
+
+.starter {
+  text-align: center;
+  background: #2274A5;
+  padding: 30px;
+  color: white;
+}
+
+ul {
+  margin: 0 100px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+li {
+  color: white;
+  list-style-type: none;
+  width: 250px;
+  min-height: 200px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+li:nth-child(even) {
+  background: #E7DFC6;
+  color: black;
+}
+
+li:nth-child(odd) {
+  background: #816C61;
+}
+/*# sourceMappingURL=style.css.map */

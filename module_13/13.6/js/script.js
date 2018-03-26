@@ -12,21 +12,21 @@ function searchCountries() {
         type: 'GET',
         success: showCountriesList
     });
-    //Ostatnim krokiem jest napisanie samej logiki wyszukiwania. 
-    //Do tego celu użyjemy jQuery'owego ajaxa. 
-    //Żądanie spróbujcie skonstruować sami na podstawie dokumentacji.
+
 }
 function showCountriesList(resp) {
-    var countrie = $('#countrie');
-    countriesList.empty();
-    var i = 0;
-    element = $("el" + i);
-    console.log(element);
+    var countries = []; 
+    
     resp.forEach(function(item) {
-        $('<li id="+'element'+">').appendTo(countriesList);
-        $('<p>').text("Country: " + item.name).appendTo(element);
-        $('<p>').text("Capital: " + item.capital).appendTo(element);
-        $('<img>').attr("src",item.flag).appendTo(element);
-        i += 1;
+        countries.push(
+            $('<li>')
+                .append($('<p>').text("Country: " + item.name))
+                .append($('<p>').text("Capital: " + item.capital))
+                .append($('<p>').text("Region: " + item.region))
+                .append($('<p>').text("Population: " + item.population))
+                .append($('<img>').attr("src", item.flag))
+        );
     });
+
+    countriesList.empty().append(countries);
 }
