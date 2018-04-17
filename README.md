@@ -1,5 +1,7 @@
 # Kodilla-BootCamp-11.2017
-## Web Development Bootcamp, 11.2017 - 05.2018  
+## Web Development Bootcamp, 11.2017 - 05.2018
+###### My learning path scenario
+
 
 ### Module 1 
 ##### HTML Structure with CSS styling
@@ -34,11 +36,11 @@ Practice: **Basic gallery-style component**
 ### Module 5 
 ##### Bootstrap (3.x)  
 1. **Features**  
-Theory: *What is a software framework? When do we need this? Another frameworks (Foundation, Semantic UI). Popular libraries (Animate CSS, Reset, Normalize)  
+Theory: *What is a software framework? When do we need this? Another frameworks (Foundation, Semantic UI). Popular libraries (Animate CSS, Reset, Normalize)*  
 2. **How to use Bootstrap?**  
 Theory: *Documentation, local version vs CDN, choosing version of Bootstrap*  
 3. **Auxilery classes** 
-Theory: *Grid, typography, tabels, forms, graphics, buttons, responsive classes*  
+Theory: *Grid, typography, tabels, forms, graphics, buttons, responsive classes*   
 Practice: **Basic (Bootstrap 3.x) website**  
 4. **Bootstrap CSS components**  
 Theory: *(Fixed) Navbar, Jumbotron, Panels, Thumbnails, Media object, List group*  
