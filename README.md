@@ -1,6 +1,6 @@
-# Kodilla-BootCamp-11.2017
-## Web Development Bootcamp, 11.2017 - 05.2018
-###### My learning path scenario
+# Kodilla-BootCamp-11.2017  
+## Web Development Bootcamp, 11.2017 - 05.2018.  
+###### *My learning path scenario.*  
 
 
 ### Module 1 
@@ -70,7 +70,7 @@ Practice: **Creating repository with few commits and comparing them with diff**
 Theory: *Github/Gitlab/Bitbucket, SSH, Github usage instruction, git remote/clone, git push/pull, workflow*  
 Practice: *Creating repository on Github*  
 4. **Teamwork with Git/Github**  
-Theory: *Branches, merging, teamwork scenario, conflict solving, Gitignore, Stash, Github pages  
+Theory: *Branches, merging, teamwork scenario, conflict solving, Gitignore, Stash, Github pages*  
 5. **NPM**  
 Theory: *Node.js & packages installation, node_modules structure description*  
 6. **Building own task-runner**  
@@ -79,10 +79,26 @@ Practice: **Developing task-runner from previous exercises**
 7. **Simple landing-page**  
 Practice: **Creating website (PSD to HTML) with RWD standards and Sass**  
 ### Module 8 
-##### JavaScript introduction, part 1
+##### JavaScript introduction, part 1 (ES5)
+1. **JavaScript - basic informations**  
+Theory: *Online editing tools, what it's for, possibilities, tools based on JS (GruntJS, SPA Frameworks, React/Angular, ...)*  
+2. **First steps**  
+Theory: *script.js, comments, variables, console.log/ alert*  
+Practice: **Script which runs alert on screen (Hello World)**  
+3. **Work environment**  
+Theory: *choosing code editor, jslint/jshint, checking errors*  
+Practice: *Installing JSlint*  
+4. **Beginning, another first steps**  
+Theory: *Attaching a script to the page, debugging, typical errors, comments (inline, block), fun extensions (dogescript)*   
+Practice: **Adding comment to script.js**  
+5. **Type of data and variables**  
+Theory: *How to declare, default value, camelCase, string/boolean/numbers/arrays/..., operations, incrementation, ...*
+Practice: **Find value of triangle field with JavaScript**  
+6. **Conditional instructions** 
+Theory: *Logical operators (==, ===, ||, &&. ...), if, if-else, switch (-case, -break,-default), short if *  
 
 ### Module 9
-##### JavaScript introduction, part 2
+##### JavaScript introduction, part 2 (ES5)
 ### Module 10
 ##### jQuery
 ### Module 11
