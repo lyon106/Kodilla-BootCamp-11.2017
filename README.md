@@ -1,6 +1,7 @@
 # Kodilla-BootCamp-11.2017  
-## Web Development Bootcamp, 11.2017 - 05.2018.  
-###### *My learning path scenario.*  
+## Web Development Bootcamp, 11.2017 - 05.2018  
+###### My learning path.  
+------------------------------------------------
 
 
 ### Module 1 
@@ -68,7 +69,7 @@ Theory: *Installation, configuration, repository initialization, commits manipul
 Practice: **Creating repository with few commits and comparing them with diff**  
 3. **Remote Git repository**  
 Theory: *Github/Gitlab/Bitbucket, SSH, Github usage instruction, git remote/clone, git push/pull, workflow*  
-Practice: *Creating repository on Github*  
+Practice: **Creating repository on Github**  
 4. **Teamwork with Git/Github**  
 Theory: *Branches, merging, teamwork scenario, conflict solving, Gitignore, Stash, Github pages*  
 5. **NPM**  
@@ -79,7 +80,7 @@ Practice: **Developing task-runner from previous exercises**
 7. **Simple landing-page**  
 Practice: **Creating website (PSD to HTML) with RWD standards and Sass**  
 ### Module 8 
-##### JavaScript introduction, part 1 (ES5)
+##### JavaScript introduction, part 1 (ES5)  
 1. **JavaScript - basic informations**  
 Theory: *Online editing tools, what it's for, possibilities, tools based on JS (GruntJS, SPA Frameworks, React/Angular, ...)*  
 2. **First steps**  
@@ -87,20 +88,43 @@ Theory: *script.js, comments, variables, console.log/ alert*
 Practice: **Script which runs alert on screen (Hello World)**  
 3. **Work environment**  
 Theory: *choosing code editor, jslint/jshint, checking errors*  
-Practice: *Installing JSlint*  
+Practice: **Installing JSlint**  
 4. **Beginning, another first steps**  
 Theory: *Attaching a script to the page, debugging, typical errors, comments (inline, block), fun extensions (dogescript)*   
 Practice: **Adding comment to script.js**  
 5. **Type of data and variables**  
 Theory: *How to declare, default value, camelCase, string/boolean/numbers/arrays/..., operations, incrementation, ...*
-Practice: **Find value of triangle field with JavaScript**  
+Practice: **Find value of triangle area with JavaScript**  
 6. **Conditional instructions** 
-Theory: *Logical operators (==, ===, ||, &&. ...), if, if-else, switch (-case, -break,-default), short if *  
+Theory: *Logical operators (==, ===, ||, &&. ...), if, if-else, switch (-case, -break, -default), short if*  
+Practice: **Creating equation with JavaScript**  
+### Module 9  
+##### JavaScript introduction, part 2 (ES5)  
+1. **Functions**   
+Theory: *Function syntax details, declaration, execute, parameters, good practises (SOLID), naming rules*  
+Practice: **Creating function which calculate trialngle area, through values from parameters**  
+2. **Arrays**  
+Theory: *Array basic methods(length, toString(), join(), push(), pop(), splice(), concat(), indexOf(), map(), filter()), elements manipulation*  
+Practice: **Connecting arrays through concat() method, simple manipulations on elements**  
+3. **Strings**  
+Theory: *String basic methods(length, charAt(), indexOf(), slice(), substr(), replace(), toUpperCase(), toLowerCase(), split()*  
+Practice: **Manipulation on string object by known methods**  
+4. **Loops**  
+Theory: *For/while/do-while/for-in(loop through object atributes) loop syntax details, break/continue*  
+Practice: **Building tree through loop-based algoithm**  
+5. **DOM**  
+Theory: *DOM as API and its most important properties: window w/ -methods-> setTimeout, clearTimeout, clearInterval, setInterval,  onload, location; document w/-methods-> (getElementById, .getElementsByClassName, .getElementsByTagName, .nextElementSibling, .createElement), methods of document' elements -> (innerHTML, appendCHild, className, style)*  
+Practice: **Construct program that iterate through DOM elements**  
+6. **Events**  
+Theory: *addEventListener -> document.(element)' method (EventTarget), example types of events (click, keypress, mouseenter, resize, load, ...) -> Event attribute: target, listener*  
+Practice: **Creating list of document elements using addEventListener**  
+7. **Rock–paper–scissors - designing and coding first application**  
+Theory/Practice: *Conceptualization process of designing game: assumptions for logic and interface, step-by-step implementation of described parts (html structure, game title and initialization, player interaction with interface, score table, logic, changing values during the game, draw computer action, attaching scores), using basic State concpet, looking for potential problems*  
+8. **Another simple landing-page**  
+Practice: **Creating website (PSD to HTML) with RWD standards and Sass**  
+### Module 10  
+##### jQuery  
 
-### Module 9
-##### JavaScript introduction, part 2 (ES5)
-### Module 10
-##### jQuery
 ### Module 11
 ##### Object-Oriented Programming - basic concepts
 ### Module 12
