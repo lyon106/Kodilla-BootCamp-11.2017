@@ -1,9 +1,7 @@
 # Kodilla-BootCamp-11.2017  
-## Web Development Bootcamp, 11.2017 - 05.2018  
+## Web Development Bootcamp, 11.2017 - 05.2018 
 ###### My learning path.  
 ------------------------------------------------
-
-
 ### Module 1 
 ##### HTML Structure with CSS styling
 1. **HTML**  
@@ -95,7 +93,7 @@ Practice: **Adding comment to script.js**
 5. **Type of data and variables**  
 Theory: *How to declare, default value, camelCase, string/boolean/numbers/arrays/..., operations, incrementation, ...*
 Practice: **Find value of triangle area with JavaScript**  
-6. **Conditional instructions** 
+6. **Conditional instructions**  
 Theory: *Logical operators (==, ===, ||, &&. ...), if, if-else, switch (-case, -break, -default), short if*  
 Practice: **Creating equation with JavaScript**  
 ### Module 9  
@@ -124,9 +122,30 @@ Theory/Practice: *Conceptualization process of designing game: assumptions for l
 Practice: **Creating website (PSD to HTML) with RWD standards and Sass**  
 ### Module 10  
 ##### jQuery  
-
-### Module 11
-##### Object-Oriented Programming - basic concepts
+1. **DOM manipulating**  
+Theory: *Mechanism of DOM -> (nodes, DOM in DevTools, handler action as reaction for DOM change), events -> (callbacks), first view at jQuery syntax, bubbling(default)/capturing, jQuery history*  
+2. **jQuery introduction**  
+Theory: *Attaching jQuery CDN in HTML, boilerplate, onload/IIFE jQuery version, distniction between DOM and jQuery Wrapper, .eq() method, creating new elements with $, iterating (method .each()), styling (.css() method), chaining methods, movement through elements (.find(), .last(), .first() ), manipulations*  
+Practice: **Basic operation on DOM through jQuery wrapper using known methods**  
+3. **jQuery events**  
+Theory: *Alternative for addEventListener through jQuery methods, preventDefault(), event delegation (simplifying listening for whole groups of elements by indicating a parent element), effects (slideToggle, fadeIn, fadeOut), plugins (fullPage.js, Particles.js, jQueryUI - collection of widgets)*  
+Practice: **Creating own carousel plugin using asynchronous methods, .animate(), css(), find(), after()**  
+### Module 11  
+##### Object-Oriented Programming - basic concepts  
+1. **Popular paradigms of programming**  
+Theory: *Approximating meaning of procedural, structural(e.g. sequence, choice option, looping), imperative(how should be done), declarative(descraibing the way of operation), functional(math descriptions) and object-oriented paradigms; JS as multiparadigmatic language, joining imperative, functional and object-oriented features*  
+2. **Pros of OOP**
+Theory: *Our observation world through objects as primary advantage of learning this paradigm*  
+3. **Introduction to class concept**  
+Theory: *Class as blue-print, object as creation based on class*  
+4. **OOP in practice - implementation concepts in code**  
+Theory: *Primitives as values and way of managing it in memory (string, number, boolean, null, undefined), literals as a way of declaring variable which contain primitive - it is some kinf of representation and initilizer, presented as list with its own syntax/special charts; another way of declaration: constructors (with key-word "new" for creating new instance and 'this' as context) - special functions; prototypes (as a way to avoid excessive amount of methods when creating much instances)*  
+Practice: **Creating 'class' Phone and few instances of it**  
+5. **Context - this**  
+Theory: *What is context, giving context, loosing binding (and way to solve: self), identyfing problems, *  
+Practice: **Using jQuery and objects with prototypes, simulate loss of context and repairing it through 'self'**   
+6. **Kanban App**  
+Theory/Practice: * *  
 ### Module 12
 ##### AJAX and API
 ### Module 13
