@@ -252,9 +252,31 @@ Theory: *Global objects in Node.js: global (object with global access, similiar 
 Practice: **Creating app, which are able to receive and return user data (with stdin/stdout), has own-defined command, are throwing errors in console**  
 
 4. **Module design pattern - introduction**  
-Theory: *Each module has its own purpose, functionality and interface. Three most popular implementations of modules in JS: CommonJS (which use require() method, described on this module), AMD and NativeJS (ES6)*  
-### Module 14
-##### ReactJS
+Theory: *Each module has its own purpose, functionality and interface. Three most popular implementations of modules in JS: CommonJS (which uses 'require' method), AMD and NativeJS (ES6). All modules (implemented in Node) should have documentation*  
+Practice: **Using the 'os' module in a simple program that has to show info about the computer of user. Creating own module, based on 'os' module. Creating module, which are formatting tinme in proper way**  
+
+5. **NPM introduction**  
+Theory: *Reminder about NPM functionality*  
+Practice: **Including package downloaded from NPM to project as a module and use based on documentation**  
+
+6. **Events in Node.js**  
+Theory: *Event loops allow to register callbacks and setting time of running callbacks. Description 'Events' module (similar to events in browsers, but oriented about requests/responses) and its 'class' - EventEmmiter, which helps in avoidance 'callback hell' (big similiraity to 'on' method of jQuery or classical 'addEventListener()'). 'emit' method emit event*  
+
+7. **File System - module**  
+Theory: *Methods of fs: Stats (checking availability of access to files or their existance in system and show information about), stat-mode, readFile/wirteFile/appendFile, Buffer as default format of reading/writing files. Possibility to avoid series of nesting*  
+Practice: **Create function, that read content od filder (with fs.readdir) and save it to file with fs.writeFile**  
+
+8. **HTTP - module**  
+Theory: *Remaining about HTTP protocol, headers and response codes. Implementation HTTP server with 'http' module and 'createServer' (which 'containt' eventEmitter) method. Stream and an implementation of EventEmmiter which contain methods to read, write or two-way communication*  
+Practice: **Using fs and http modules, create app which will be used for servering static files**  
+
+9. **Creating page to upload files or images**  
+Theory/Practice: _**Initialize server and include Nodemon NPM package to avoid need of manual restarting after making changes. Splitting  file structure on the modules. Using http module, set up requesting and responsing queries. Configuration few types of requests: '/', '/start', '/upload'. Creating basic form to upload images and naming it through the content entered by the user, operated by 'formidable' module**_  
+
+### Module 14  
+##### ReactJS  
+
+
 ### Module 15
 ##### ES6 & React
 ### Module 16
