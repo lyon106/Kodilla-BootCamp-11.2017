@@ -127,7 +127,7 @@ Theory: *Attaching a script to the page, debugging, typical errors, comments (in
 Practice: **Adding comment to script.js**  
 
 5. **Type of data and variables**  
-Theory: *How to declare, default value, camelCase, string/boolean/numbers/arrays/..., operations, incrementation, ...*
+Theory: *How to declare, default value, camelCase, string/boolean/numbers/arrays/..., operations, incrementation, ...*  
 Practice: **Find value of triangle area with JavaScript**  
 
 6. **Conditional instructions**  
@@ -162,7 +162,7 @@ Theory: *addEventListener -> document.(element)' method (EventTarget), example t
 Practice: **Creating list of document elements using addEventListener**  
 
 7. **Rock–paper–scissors - designing and coding first application**  
-Theory/Practice: *Conceptualization process of designing game: assumptions for logic and interface, step-by-step implementation of described parts (html structure, game title and initialization, player interaction with interface, score table, logic, changing values during the game, draw computer action, attaching scores), using basic State concpet, looking for potential problems*  
+Theory/Practice: _**Conceptualization process of designing game: assumptions for logic and interface, step-by-step implementation of described parts (html structure, game title and initialization, player interaction with interface, score table, logic, changing values during the game, draw computer action, attaching scores), using basic State concpet, looking for potential problems**_  
 
 8. **Another simple landing-page**  
 Practice: **Creating website (PSD to HTML) with RWD standards and Sass**  
@@ -241,6 +241,18 @@ Practice: **Create website, which contain animations and RWD, reproducing the PS
 ### Module 13  
 ##### Node.js - first attempt  
 
+1. **NodeJS description**  
+Theory: *Node.js as "JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient". The syntax and semantics of the language describe the so-called standards. JavaScript as an implmentation of standards (Standard->Language->Enginge->Environment)*  
+
+2. **NodeJS instalation**  
+Theory: *LTS as long term support version*  
+
+3. **NodeJS indtroduction**  
+Theory: *Global objects in Node.js: global (object with global access, similiar to 'window' in browsers), process (global access, method of global. Similar to 'document' in browser environment)*  
+Practice: **Creating app, which are able to receive and return user data (with stdin/stdout), has own-defined command, are throwing errors in console**  
+
+4. **Module design pattern - introduction**  
+Theory: *Each module has its own purpose, functionality and interface. Three most popular implementations of modules in JS: CommonJS (which use require() method, described on this module), AMD and NativeJS (ES6)*  
 ### Module 14
 ##### ReactJS
 ### Module 15
