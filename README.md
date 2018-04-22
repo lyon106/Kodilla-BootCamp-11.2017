@@ -6,35 +6,42 @@
 ##### HTML Structure with CSS styling
 1. **HTML**  
 Theory: *How does Websites work? What is HTML?*  
-  
 Practice: **First 'website'**  
   
 2. **CSS**  
 Theory: *Selectors, connecting CSS to HTML, Frequently Used Styles, colors, Box Model*  
 Practice: **Lifting 'website' from 1.1 exercise**  
-
+  
 3. **Basic Website**  
 Theory: *HTML5 semantic and structure in practice, designing, cascade CSS*  
-Practice: **Create website basing on photography**
+Practice: **Create website basing on photography**  
+  
 ### Module 2 
 ##### CSS Practice
+
 ### Module 3
 ##### PSD to HTML layout
+
 ### Module 4
 ##### Responsive layout  
 1. **How does it work?**  
-Theory: *AWD (separate projects), RWD (Graceful degradation, Progressive enhancement), Web/Mobile*    
+Theory: *AWD (separate projects), RWD (Graceful degradation, Progressive enhancement), Web/Mobile*  
+
 2. **How to do it?**  
 Theory: *Media queries, breakpoints, logic operators, viewport, grid, units, graphic*  
+
 3. **Creating website based on RWD**  
 Theory: *Planing HTML structure of Desktop-First project (float & clearfix version), testing efficinecy*  
 Practice: **Building website**  
+
 4. **Upgrade existing site's code to RWD standards**  
 Theory: *Global styles, mobile-first, coding step-by-step*  
 Practice: **Upgrading website from 3.3 exercise to RWD standards**  
+
 5. **Flexbox**  
 Theory: *What is flexbox, terminology, how to use it*  
 Practice: **Basic gallery-style component**  
+
 ### Module 5 
 ##### Bootstrap (3.x)  
 1. **Features**  
