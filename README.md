@@ -8,7 +8,7 @@
 Theory: *How does Websites work? What is HTML?*  
 Practice: **First 'website'**
 2. **CSS**  
-Theory: *Selectors, connecting CSS to HTML, Frequently Used Styles, colors, Box Model.*  
+Theory: *Selectors, connecting CSS to HTML, Frequently Used Styles, colors, Box Model*  
 Practice: **Lifting 'website' from 1.1 exercise**  
 3. **Basic Website**  
 Theory: *HTML5 semantic and structure in practice, designing, cascade CSS*  
@@ -134,7 +134,7 @@ Practice: **Creating own carousel plugin using asynchronous methods, .animate(),
 ##### Object-Oriented Programming - basic concepts  
 1. **Popular paradigms of programming**  
 Theory: *Approximating meaning of procedural, structural(e.g. sequence, choice option, looping), imperative(how should be done), declarative(descraibing the way of operation), functional(math descriptions) and object-oriented paradigms; JS as multiparadigmatic language, joining imperative, functional and object-oriented features*  
-2. **Pros of OOP**
+2. **Pros of OOP**  
 Theory: *Our observation world through objects as primary advantage of learning this paradigm*  
 3. **Introduction to class concept**  
 Theory: *Class as blue-print, object as creation based on class*  
@@ -145,9 +145,22 @@ Practice: **Creating 'class' Phone and few instances of it**
 Theory: *What is context, giving context, loosing binding (and way to solve: self), identyfing problems, *  
 Practice: **Using jQuery and objects with prototypes, simulate loss of context and repairing it through 'self'**   
 6. **Kanban App**  
-Theory/Practice: * *  
-### Module 12
-##### AJAX and API
+Theory/Practice: _**Create application based on conception, which include: basic mockup, an example to follow (Trello), 
+characterizing the application as a set of objects and their methods (table, columns, sticks), basic assumptions of implementation (using jQuery, every stick as object with unique ID, ...), description of 'classes'(constructors)/objects/methods/events**_   
+### Module 12  
+##### AJAX and API  
+1. **HTTP Protocol**  
+Theory: *Scratching concepts of: Internet, IP, Request/Response, HTTP Protocol (headers, methods - get, post, put, delete, head), code of responses*  
+2. **AJAX - Asynchronous Javascript And XML**  
+Theory: *AJAX as a technology, basing on XMLHttpRequest. Benefits of using AJAX: possibility to create apps, which are reloading only these parts that we want to, instead of reloading full site*  
+3. **Distinction between synchronous and asynchronous in JavaScript**  
+Theory: *Synchronous: the program is executed linearly, functions are performed after performing the previous ones, as they appear in code; asynchronous: using event loop, what results possibility to moving execution of functions over time*  
+4. **Description of XMLHttpRequest**  
+Theory: *Stages of using the XMLHttpRequest object: creating instances, implementing methods (sending queries, listening and receiving answers from the server, etc.), JSON(stringify, perse)*  
+Practice: **Using XMLHttpRequest, send querie to server to get back joke about Chuck Norris**  
+5. **AJAX with jQuery**  
+Theory:  *Setup AJAX request with jQuery.ajax()*  
+Practice: ** **  
 ### Module 13
 ##### Node.js - first attempt
 ### Module 14
