@@ -6,10 +6,13 @@
 ##### HTML Structure with CSS styling
 1. **HTML**  
 Theory: *How does Websites work? What is HTML?*  
-Practice: **First 'website'**
+  
+Practice: **First 'website'**  
+  
 2. **CSS**  
 Theory: *Selectors, connecting CSS to HTML, Frequently Used Styles, colors, Box Model*  
 Practice: **Lifting 'website' from 1.1 exercise**  
+
 3. **Basic Website**  
 Theory: *HTML5 semantic and structure in practice, designing, cascade CSS*  
 Practice: **Create website basing on photography**
@@ -160,9 +163,20 @@ Theory: *Stages of using the XMLHttpRequest object: creating instances, implemen
 Practice: **Using XMLHttpRequest, send querie to server to get back joke about Chuck Norris**  
 5. **AJAX with jQuery**  
 Theory:  *Setup AJAX request with jQuery.ajax()*  
-Practice: ** **  
-### Module 13
-##### Node.js - first attempt
+Practice: **Create random quote machine with jQuery. Basing on project assumptions, creating code structure, which uses jQuery AJAX. The program consists of: URL adresses, quotes downloading mechanism**   
+6. **API - Application Programming Interface**  
+Theory: *API as a way to communicate between components of application, which allows to use methods created by programmers, without knowning about way of implementation these methods by user. jQuery is an example of API. To communicate with API we use endpoints (URLs), that return data after implementation. Documentation as an instruction for using API. RESTful API - Representational State Transfer (standardized version of implementation API, which helps in creating and using interfaces), containing the following rules:  1)A trailing forward slash (/) should not be included in URIs (Uniform Resource Identifier); 2)Forward slash separator (/) must be used to indicate a hierarchical relationship; 3)Hyphens (-) should be used to improve the readability of URIs; 4)Underscores (_) should not be used in URIs; 5)Lowercase letters should be preferred in URI paths; 6)File extensions should not be included in URIs. 
+Description of resource (an object with a type, associated data, relationships to other resources, and a set of methods that operate on it. It is similar to an object instance in an object-oriented programming language, with the important difference that only a few standard methods are defined for the resource (corresponding to the standard HTTP GET, POST, PUT and DELETE methods), while an object instance typically has many methods)
+and collections.
+Authentication (HTTPS, cookies, OAuth)*   
+Practice: **Create country search engine with use of jQuery AJAX. Use the API 'rest countries', extend by some resources available on API documentation**  
+7. **Kanban App - extended version**  
+Theory/Practice: _**Refactor code of App to the form which use XMLHttpRequest methods and use API from Kodilla website. Enter authentication**_  
+8. **PSD to HTML - extended landing page**  
+Practice: **Create website, which contain animations and RWD, reproducing the PSD project as accurately as possible**  
+### Module 13  
+##### Node.js - first attempt  
+
 ### Module 14
 ##### ReactJS
 ### Module 15
