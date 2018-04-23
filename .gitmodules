@@ -46,3 +46,6 @@
 [submodule "module_17"]
 	path = module_17
 	url = git@github.com:lyon106/module_17.git
+[submodule "module_18"]
+	path = module_18
+	url = git@github.com:lyon106/module_18.git
