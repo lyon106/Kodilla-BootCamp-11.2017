@@ -260,7 +260,7 @@ Theory: *Reminder about NPM functionality*
 Practice: **Including package downloaded from NPM to project as a module and use based on documentation**  
 
 6. **Events in Node.js**  
-Theory: *Event loops allow to register callbacks and setting time of running callbacks. Description 'Events' module (similar to events in browsers, but oriented about requests/responses) and its 'class' - EventEmmiter, which helps in avoidance 'callback hell' (big similiraity to 'on' method of jQuery or classical 'addEventListener()'). 'emit' method emit event*  
+Theory: *Event loops allow to register callbacks and setting time of their running. Description 'Events' module (similar to events in browsers, but oriented about requests/responses) and its 'class' - EventEmmiter, which helps in avoidance 'callback hell' (big similiraity to 'on' method of jQuery or classical 'addEventListener()'). 'emit' method emit event*  
 
 7. **File System - module**  
 Theory: *Methods of fs: Stats (checking availability of access to files or their existance in system and show information about), stat-mode, readFile/wirteFile/appendFile, Buffer as default format of reading/writing files. Possibility to avoid series of nesting*  
@@ -275,6 +275,12 @@ Theory/Practice: _**Initialize server and include Nodemon NPM package to avoid n
 
 ### Module 14  
 ##### ReactJS  
+
+1. **A brief history of web development as a purpose to create frameworks**  
+Theory: *Static sites (HTML and CSS) -> dynamic sites (AJAX) -> jQuery (unification of interface) -> 'Internet Application' = new problems -> creating frameworks and libraries (as Angular and React)*  
+
+2. **React basics**  
+Theory: *Static sites (HTML and CSS) -> dynamic sites (AJAX) -> jQuery (unification of interface) -> 'Internet Application' = new problems -> creating frameworks and libraries (as Angular and React)*  
 
 
 ### Module 15
