@@ -17,11 +17,32 @@ Practice: **Lifting 'website' from 1.1 exercise**
 Theory: *HTML5 semantic and structure in practice, designing, cascade CSS*  
 Practice: **Create website basing on photography**  
   
-### Module 2 
-##### CSS Practice
+### Module 2  
+##### CSS practice  
+
+1. **Advanced properties**  
+Theory: *CSS3, comments, formatting, elements naming (BEM, SMACSS, SUITCSS), block/inline elements, float, align, clear, position (static, realtive, absolute, fixed), many elementns selectors (nesting, grouping, siblings), pseudoclasses, n-th child*  
+
+2. **Fixed two-level menu**  
+Theory/Practice: _**Creating horizontal menu with able to expand and view on second level**_  
+
+3. **Gallery based on float with jumbotron**  
+Theory/Practice: _**Basing on instructions, create gallery with button on it center**_    
+
+4. **Buttons with gradient and animation**  
+Theory/Practice: _**Basing on instructions, using transition and some background properties, create 3 buttons which are responsing on hover**_  
+
+5. **Star with filling, appearing after hovering**  
+Theory/Practice: _**Using transform propertie, pseudoclasses, font-awesome icons, create animation as said in the a topic of the subsection**_  
+
+6. **Social media panel**  
+Theory/Practice: _**Using transform propertie, pseudoclasses, font-awesome icons, create panel as said in a topic of the subsection**_  
 
 ### Module 3
 ##### PSD to HTML layout
+
+1. **How does PSD cutting process looks like?**  
+Theory: * *  
 
 ### Module 4
 ##### Responsive layout  
