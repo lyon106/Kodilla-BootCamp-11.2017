@@ -42,9 +42,20 @@ Theory/Practice: _**Using transform propertie, pseudoclasses, font-awesome icons
 ##### PSD to HTML layout
 
 1. **How does PSD cutting process looks like?**  
-Theory: * *  
+Theory: *Choosing program to cut projects, prototype driven development (style guide insted of finished graphic project) with Boostrap/Foundation, most important graphic parts (logo, welcome section photo, icons), graphical extensions, term support for chosen browsers(tools like Can I Use, BrowserStack), pixel perfect, 'fillers' (lorem ipsum, stocksnap), CMS (aspect of connecting front-end to server), UAT (User Acceptance Testing)*  
 
-### Module 4
+2. **Layout building**  
+Theory: *Layout patterns with RWD, good practises (KISS, choose known patterns, set the hierarchy, do not make users think, making text readable, WebAIM, Grid (creating own one using box-sizing), clearfix, reusable styles, css-tricks/codepen as examples of open community work exchange*  
+Practice: **Create layout with grid which contains offsets**  
+
+3. **Cutting commercial project**  
+Theory: *Getting to know the client's requirements (layout, interactions, date of realisation), finding problems that may occur during implementation, page layout and element distribution analysis, draw a page grid and convert it to html/css structure. Finding global styles, ... *  
+Practice: **Based on instructions and PSD, create working site**  
+
+4. **Additional project**  
+Practice: **Based on PSD, create working site**  
+
+### Module 4  
 ##### Responsive layout  
 
 1. **How does it work?**  
