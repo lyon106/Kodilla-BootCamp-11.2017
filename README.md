@@ -1,6 +1,5 @@
-# Kodilla-BootCamp-11.2017  
-## Web Development Bootcamp, 11.2017 - 05.2018 
-###### My learning path.  
+## Web Development Bootcamp, 11.2017 - 05.2018  
+###### My learning path  
 ------------------------------------------------
 ### Module 1 
 ##### HTML Structure with CSS styling  
