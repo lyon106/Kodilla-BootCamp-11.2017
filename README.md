@@ -1,8 +1,7 @@
 ## Web Development Bootcamp, 11.2017 - 05.2018  
 ###### My learning path  
 
-Almost all the listed repositories and projects are private. To check few of those that I have realized, clik one of below links:
-- 
+Almost all the listed repositories and projects are private.
 ------------------------------------------------
 ### Module 1 
 ##### HTML Structure with CSS styling  
